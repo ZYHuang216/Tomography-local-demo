@@ -1,0 +1,6 @@
+numpy
+numba          # fast multi-core back-projection (optional; numpy fallback exists)
+pyvista        # 3D RECAST3D-style viewer (VTK)
+matplotlib
+tifffile       # FleX-ray TIFF reader (Pillow is used as a fallback)
+h5py           # Data Exchange HDF5 (synchrotron / TomoBank) reader
